@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories (slowed down on conversion):
 
-![](https://i.imgur.com/KBilM2h.gif)
+![](https://github.com/Povsc/TipCalculator/blob/main/Screen%20Recording%202021-06-22%20at%2010.19.24%20PM.gif)
 
 ## Notes
 
