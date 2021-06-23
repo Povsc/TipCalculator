@@ -1,10 +1,10 @@
-# Project 1 - *TBD*
+# Project 1 - *Tip Calculator*
 
 **TBD** is a tip calculator application for iOS.
 
 Submitted by: **Felipe Conte Cortez Martins**
 
-Time spent: **3** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -15,10 +15,10 @@ The following **required** functionality is complete:
 The following **optional** features are implemented:
 
 * [ ] Settings page to change the default tip percentage.
-* [ ] UI animations
+* [x] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
@@ -26,11 +26,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories (slowed down on conversion):
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [Kap](https://getkap.co/).
+![](https://i.imgur.com/KBilM2h.gif)
 
 ## Notes
 
