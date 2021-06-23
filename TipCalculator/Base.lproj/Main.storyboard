@@ -81,11 +81,7 @@
                         <outlet property="totalTextLabel" destination="abZ-9I-gLz" id="n4f-V5-64X"/>
                     </connections>
                 </viewController>
-                <tapGestureRecognizer id="B7t-kE-ZXd">
-                    <connections>
-                        <action selector="onTap:" destination="VoI-et-VKU" id="gNe-SR-XWO"/>
-                    </connections>
-                </tapGestureRecognizer>
+                <tapGestureRecognizer id="B7t-kE-ZXd"/>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ocB-7a-A0a" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="104.61538461538461" y="33.412322274881518"/>
@@ -93,7 +89,6 @@
         <!--Navigation Controller-->
         <scene sceneID="uVv-NR-bVF">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="ybc-tL-e82" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <navigationController id="wFK-0M-gNp" sceneMemberID="viewController">
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="Tzd-TO-PVr">
                         <rect key="frame" x="0.0" y="44" width="390" height="44"/>
@@ -103,6 +98,7 @@
                         <segue destination="VoI-et-VKU" kind="relationship" relationship="rootViewController" id="d2I-I7-sHo"/>
                     </connections>
                 </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ybc-tL-e82" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-841" y="33"/>
         </scene>

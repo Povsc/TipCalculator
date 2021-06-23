@@ -93,9 +93,9 @@ BOOL lowered = true;
         self.tipLabel.hidden = false;
         
         CGRect tipTextFrame = self.tipTextLabel.frame;
-        tipTextFrame.origin.y += 200;
+        tipTextFrame.origin.y -= 200;
         self.tipTextLabel.frame = tipTextFrame;
-        self.tipTextLabel.hidden = true;
+        self.tipTextLabel.hidden = false;
         
         CGRect totalFrame = self.totalLabel.frame;
         totalFrame.origin.y -= 200;

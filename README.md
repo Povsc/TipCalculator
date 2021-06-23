@@ -1,10 +1,10 @@
-# Project 1 - *TBD*
+# Project 1 - *Tip Calculator*
 
 **TBD** is a tip calculator application for iOS.
 
 Submitted by: **Felipe Conte Cortez Martins**
 
-Time spent: **3** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
